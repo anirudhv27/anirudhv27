@@ -1,4 +1,4 @@
-### Hi there! I am Anirudh.
+### Hi there! I'm Anirudh!
 
 Welcome to my Github profile! I am a second-year student at MIT studying electrical engineering and computer science (Course 6-2). 
 
@@ -9,6 +9,15 @@ I love solving problems that people face daily, from creating more efficient tra
 - Mission Connected: a closed forum and management system that enables high school clubs to communicate with their members and streamlines the club discovery and approval process.
 
 Aside from my personal endeavors, I am also fascinated by the application of automation to efficient systems. I am currently conducting intelligent infrastructure research at [Prof. Cathy Wu's Lab](http://www.wucathy.com/blog/) under the lab's AlphaDrive project, using computer vision to impute traffic inflow data at intersections with the goal of reducing carbon emissions.
+
+Some of my hobbies include learning languages (I speak 5), hiking, and dancing for MIT's competitive Bollywood Team Mirchi, where I am in charge of the team's finances.
+
+### Skills
+- *Software Development*: Git, Typescript, HTML/CSS, Node.js, Typescript, React.js, React Native, Next.js, Swift, SQL, MongoDB, Firebase, Java,  XCode, Android Studio, REST, GraphQL, Socket.io
+- *Embedded Systems*: Arduino and C++
+- *Machine Learning and Data Science*: Python, Numpy, Pandas, MATLAB, Neural Networks, Computer Vision, Reinforcement Learning, Tensorflow
+
+### Honors and Awards
 
 <!--
 **anirudhv27/anirudhv27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
