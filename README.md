@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Anirudh!
+### Hi there! I am Anirudh.
+
+Welcome to my Github profile! I am a second-year student at MIT studying electrical engineering and computer science (Course 6-2). Here is a bit about myself.
 
 <!--
 **anirudhv27/anirudhv27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
