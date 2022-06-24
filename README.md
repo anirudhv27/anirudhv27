@@ -16,8 +16,14 @@ Some of my hobbies include learning languages (I speak 5), hiking, and dancing f
 - **Software Development**: Git, Typescript, HTML/CSS, Node.js, Typescript, React.js, React Native, Next.js, Swift, SQL, MongoDB, Firebase, Java,  XCode, Android Studio, REST, GraphQL, Socket.io
 - **Embedded Systems**: Arduino and C++
 - **Machine Learning and Data Science**: Python, Numpy, Pandas, MATLAB, Neural Networks, Computer Vision, Reinforcement Learning, Tensorflow
+- **Languages**: Spanish, Hindi, German, Telugu
 
 ### Honors and Awards
+- ShellHacks 2021 First Place Winner: Tango
+- AIME 2020 Qualifier (Score: 7)
+- NACLO (North American Computational Linguistics Olympiad): Top 47th Scorer in the Country
+- USACO Silver Competitor
+- Eagle Scout
 
 <!--
 **anirudhv27/anirudhv27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
