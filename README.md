@@ -1,4 +1,4 @@
-### Hi, I'm Anirudh, Welcome to my Github profile! 
+### Hi, I'm Anirudh. Welcome to my Github profile! 
 
 I am a second-year student at MIT studying electrical engineering and computer science (Course 6-2). 
 
