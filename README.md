@@ -19,11 +19,11 @@ Some of my hobbies include learning languages (I speak 5), hiking, and dancing f
 - **Languages**: Spanish, Hindi, German, Telugu
 
 ### Honors and Awards
-- ShellHacks 2021 First Place Winner: Tango
-- AIME 2020 Qualifier (Score: 7)
-- NACLO (North American Computational Linguistics Olympiad): Top 47th Scorer in the Country
-- USACO Silver Competitor
-- Eagle Scout
+- **ShellHacks 2021 First Place Winner**: Tango
+- **AIME** 2020 Qualifier (Score: **7**)
+- **NACLO** (North American Computational Linguistics Olympiad): Top 47th Scorer in the Country
+- **USACO** Silver Competitor
+- **Eagle Scout** (Troop 153)
 
 <!--
 **anirudhv27/anirudhv27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
