@@ -1,6 +1,6 @@
 ### Hi, I'm Anirudh. Welcome to my Github profile! 
 
-I am a second-year student at MIT studying electrical engineering and computer science (Course 6-2). 
+I am a student at MIT studying electrical engineering and computer science (Course 6-2). 
 
 I love solving problems that people face daily, from creating more efficient transportation systems that help us live in a cleaner future to developing a platform to find friends on campus. Here are a few standout personal projects that I've worked on:
 - Socialyze: a social media platform where MIT students can find other people with similar interests.
