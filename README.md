@@ -14,7 +14,7 @@ Aside from my personal endeavors, I am also fascinated by the immense potential 
 Some of my hobbies include learning languages (I speak 5), hiking, and dancing for MIT's competitive Bollywood Team Mirchi, where I am in charge of the team's finances.
 
 ### Skills
-- **Software Development**: Git, Typescript, HTML/CSS, Node.js, Typescript, React.js, React Native, Next.js, Swift, SQL, MongoDB, Firebase, Java,  XCode, Android Studio, REST, GraphQL, Socket.io
+- **Software Development**: Git, Typescript, Node.js, Typescript, React.js, React Native, Next.js, Swift, SQL, MongoDB, Firebase, Java, XCode, Android Studio, gRPC, REST, GraphQL, Socket.io
 - **Embedded Systems**: Arduino and C++
 - **Machine Learning, Data Science, and Robotics**: Pytorch, Numpy, Pandas, OpenCV, MATLAB, Neural Networks, Computer Vision, Reinforcement Learning, ROS
 - **Languages**: Spanish, Hindi, German, Telugu
