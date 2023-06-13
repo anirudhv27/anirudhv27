@@ -2,7 +2,7 @@
 
 I am a third-year student at MIT studying Artificial Intelligence and Robotics (Course 6-4). 
 
-I love solving problems that people face daily, from developing cutting-edge robotic manipulation systems with the power of generative AI to creating more efficient transportation systems that help us live in a cleaner future. Here are a few standout personal projects that I've worked on:
+I love solving difficult and ever-present daily problems, from developing cutting-edge robotic manipulation systems with the power of generative AI to creating more efficient transportation systems that help us live in a cleaner future. Here are a few standout personal projects that I've worked on:
 - AlphaDrive: A intelligent infrastructure research project in [Prof. Cathy Wu's Lab](http://www.wucathy.com/blog/), where I worked in imputing traffic inflow data at intersections for a downstream distributed RL model with the goal of reducing carbon emissions.
 - Socialyze: a social media platform where MIT students can find other people with similar interests.
 - An AI-powered gesture-based system to control a car's interface using hand signals.
