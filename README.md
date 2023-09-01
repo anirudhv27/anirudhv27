@@ -1,18 +1,5 @@
 ### Hi, I'm Anirudh. Welcome to my Github profile! 
 
-I am a third-year student at MIT studying Artificial Intelligence and Robotics (Course 6-4). 
-
-I love solving difficult and ever-present daily problems, from developing cutting-edge robotic manipulation systems with the power of generative AI to creating more efficient transportation systems that help us live in a cleaner future. Here are a few standout personal projects that I've worked on:
-- AlphaDrive: A intelligent infrastructure research project in [Prof. Cathy Wu's Lab](http://www.wucathy.com/blog/), where I worked in imputing traffic inflow data at intersections for a downstream distributed RL model with the goal of reducing carbon emissions.
-- Socialyze: a social media platform where MIT students can find other people with similar interests.
-- An AI-powered gesture-based system to control a car's interface using hand signals.
-- Tango: an AI dance coach where users can learn choreo from any video of the user's choosing, providing real-time accuracy metrics and summary statstics.
-- Mission Connected: a closed forum and management system that enables high school clubs to communicate with their members and streamlines the club discovery and approval process.
-
-Aside from my personal endeavors, I am also fascinated by the immense potential of recent advances in generative AI to enable embodied intelligence. As an undergraduate researcher (UROP) in the [Scene Representation Group](https://www.scenerepresentations.org/) and [Robot Locomotion Group](https://groups.csail.mit.edu/locomotion/people.html), I am currently working on a research project exploring the applications of generative AI to solve the problem of generalizable robotic dextrous manipulation.
-
-Some of my hobbies include learning languages (I speak 5), hiking, and dancing for MIT's competitive Bollywood Team Mirchi, where I am in charge of the team's finances.
-
 ### Skills
 - **Software Development**: Git, Typescript, Node.js, Typescript, React.js, React Native, Next.js, Swift, SQL, MongoDB, Firebase, Java, XCode, Android Studio, gRPC, REST, GraphQL, Socket.io
 - **Embedded Systems**: Arduino and C++
